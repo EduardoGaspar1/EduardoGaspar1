@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @EduardoGaspar1
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me 
+- Hi, I’m @EduardoGaspar1
+- I’m interested in Games and programming 
+- I’m currently learning VueJS
+- How to reach me 
 eduardorohdengaspar@gmail.com
 
 <!---
